@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benjamin Okocha-Innocent</h1>
-<h3 align="center">A passionate web developer from Toronto Canada.</h3>
+<h3 align="center">A passionate Data Analyst from Toronto Canada.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminokochainnocent&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminokochainnocent" /> </p>
 
-- 🌱 I’m currently learning **Java, JavaScript, Python, Html, Css, Azure**
+- 🌱 I’m currently learning **Java, JavaScript, Python, SQL, R, Azure**
 
 - 📝 I regularly write articles on [https://medium.com/@benjamin.innocent14](https://medium.com/@benjamin.innocent14)
 
